@@ -73,7 +73,7 @@ print(result)
 
 ## OUTPUT:
 
-<img width="537" height="407" alt="image" src="https://github.com/user-attachments/assets/4d3891d7-1e99-45ce-b8cf-6ac2b60d0298" />
+<img width="371" height="217" alt="image" src="https://github.com/user-attachments/assets/dd3740c9-9427-4a41-a688-11b7e5049ad8" />
 
 
 ## RESULT:
